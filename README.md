@@ -4,7 +4,8 @@ Das UCC28781EVM-053 ist ein Evaluierungsmodul (EVM) von Texas Instruments zur De
 
 
 
-<img width="413" alt="image" src="https://github.com/user-attachments/assets/ff9b1bb4-5b40-4d9b-8596-ab5068b728e4" />
+![Screenshot 2025-05-24 213704](https://github.com/user-attachments/assets/a463d7a9-982a-49d7-87db-df38593c467d)
+
 
 
 
