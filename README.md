@@ -21,7 +21,7 @@ Ausgangsspannung: 12 V DC, geregelt
 
 Ausgangsstrom: Bis zu 3 A (36 W)
 
-Galvanische Trennung: Ja, mittels Transformator
+Galvanische Trennung: mittels Transformator
 
 Regelung: Sekundärseitig über Optokoppler und TL431
 
