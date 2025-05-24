@@ -1,4 +1,4 @@
-# UCC28781EVM-053_ZVS-Flyback.zip
+# UCC28781EVM-053_Flyback_Konverter
 
 Das UCC28781EVM-053 ist ein Evaluierungsmodul (EVM) von Texas Instruments zur Demonstration eines klassischen Flyback-Konverters mit galvanischer Trennung. Es basiert auf dem UCC28781-Controller und eignet sich ideal für isolierte DC/DC-Anwendungen mit mittlerer Leistung.
 
@@ -9,7 +9,7 @@ Das UCC28781EVM-053 ist ein Evaluierungsmodul (EVM) von Texas Instruments zur De
 
 
 
-Technische Eckdaten:
+# Technische Eckdaten:
 Topologie: Nicht-resonanter, klassischer Flyback-Konverter
 
 Schaltfrequenz: ca. 100 kHz, primärseitig getaktet
@@ -27,7 +27,8 @@ Regelung: Sekundärseitig über Optokoppler und TL431
 Schutzfunktionen: Unter-/Überspannung, Kurzschluss, Überlast
 
 
-Beschreibung und Funktionsweise:
+# Beschreibung und Funktionsweise:
+
 Dieses EVM zeigt den Aufbau eines einfachen isolierten Flyback-Wandlers, wie er in vielen industriellen und embedded Anwendungen eingesetzt wird.
 Die Regelung erfolgt über einen Optokoppler, der die Ausgangsspannung überwacht und eine präzise Rückkopplung zur Primärseite ermöglicht.
 Ein TL431 auf der Sekundärseite dient dabei als Referenz- und Regelbaustein.
@@ -35,13 +36,3 @@ Ein TL431 auf der Sekundärseite dient dabei als Referenz- und Regelbaustein.
 Die Schaltfrequenz von etwa 100 kHz wird vom UCC28781 erzeugt und je nach Lastsituation adaptiv angepasst. Der Transformator übernimmt dabei sowohl die Energieübertragung als auch die galvanische Trennung zwischen Primär- und Sekundärseite.
 
 
-Besonderheiten:
-Einfache, kostengünstige und robuste Flyback-Topologie
-
-Breiter Eingangsspannungsbereich (ideal für variable DC-Quellen oder Vorspannungen)
-
-Galvanisch getrennte Stromversorgung für nachgelagerte Systeme (z. B. Mikrocontroller, Sensorik, Kommunikation)
-
-Hoher Wirkungsgrad durch optimierte Schaltzeiten und gut dimensionierten Transformator
-
-Kompatibel mit industriellen Normen durch EMV-gerechtes Layout
