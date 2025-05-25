@@ -37,3 +37,5 @@ Ein TL431 auf der Sekundärseite dient dabei als Referenz- und Regelbaustein.
 Die Schaltfrequenz von etwa 100 kHz wird vom UCC28781 erzeugt und je nach Lastsituation adaptiv angepasst. Der Transformator übernimmt dabei sowohl die Energieübertragung als auch die galvanische Trennung zwischen Primär- und Sekundärseite.
 
 
+<img width="631" alt="image" src="https://github.com/user-attachments/assets/463cf008-dd87-479f-9416-23529d498015" />
+
